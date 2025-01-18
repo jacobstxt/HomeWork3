@@ -1,0 +1,14 @@
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\bin\Debug\net9.0\ServerTCP.exe
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\bin\Debug\net9.0\ServerTCP.deps.json
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\bin\Debug\net9.0\ServerTCP.runtimeconfig.json
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\bin\Debug\net9.0\ServerTCP.dll
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\bin\Debug\net9.0\ServerTCP.pdb
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.AssemblyInfoInputs.cache
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.AssemblyInfo.cs
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.csproj.CoreCompileInputs.cache
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.dll
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\refint\ServerTCP.dll
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.pdb
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.genruntimeconfig.cache
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ref\ServerTCP.dll
