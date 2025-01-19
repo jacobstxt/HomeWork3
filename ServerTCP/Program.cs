@@ -21,6 +21,7 @@ namespace ServerTCP
 
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
+            //Отримання ip-адреси
             var hostName = Dns.GetHostName();
             Console.WriteLine($"Мій хост {hostName}");
             //Визначаю список IP адрес у моїй локальній мережі.
@@ -37,9 +38,11 @@ namespace ServerTCP
             Console.Write($"({ip})->_");
             var temp = Console.ReadLine();
             if (!string.IsNullOrEmpty(temp))
+                //доступні ip-адреси
                 ip = IPAddress.Parse(temp);
             int port = 4512;
             Console.Title = $"Ваш IP {ip}:{port} :)";
+            //Створення сервера
             TcpListener serverSocket = new TcpListener(ip, port);
             serverSocket.Start();
             Console.WriteLine($"Run Server {ip}:{port}");
@@ -52,9 +55,9 @@ namespace ServerTCP
                 {
                     list_clients.Add(countClient, client);
                 }
-                Console.WriteLine($"На сервер додався клієнте {client.Client.RemoteEndPoint}");
+                Console.WriteLine($"На сервер додався клієнт {client.Client.RemoteEndPoint}");
                 Thread t = new Thread(handle_clients); //Запускає обробника запиітв у окремому потоці
-                t.Start(countClient); //
+                t.Start(countClient); 
                 countClient++;
             }
         }
@@ -90,6 +93,7 @@ namespace ServerTCP
                 list_clients.Remove(id);
             }
             client.Client.Shutdown(SocketShutdown.Both);
+            //закриття клієнта 
             client.Close();
         }
         //усім клієнта відправляємо мовідомлення

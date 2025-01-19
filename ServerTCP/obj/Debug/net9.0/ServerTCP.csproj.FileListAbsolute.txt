@@ -12,3 +12,4 @@ C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\refint\S
 C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.pdb
 C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.genruntimeconfig.cache
 C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ref\ServerTCP.dll
+C:\IT\NetworkProgramming\HomeWorks\HomeWork3\ServerTCP\obj\Debug\net9.0\ServerTCP.sourcelink.json

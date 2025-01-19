@@ -31,7 +31,9 @@ namespace HomeWork3
         }
 
 
+        //адреса сервера для роботи з фото
         private string _serverUrl = "https://kukumber.itstep.click";
+        //шлях до фото
         private string _userImage = string.Empty;
         private ChatMessage _message = new ChatMessage();
         private TcpClient _tcpClient = new TcpClient();
@@ -51,6 +53,7 @@ namespace HomeWork3
             _tcpClient.Close();
         }
 
+        //вибір фото
         private void btnPhotoSelect_Click(object sender, RoutedEventArgs e)
         {
             OpenFileDialog dlg = new OpenFileDialog();
@@ -88,8 +91,10 @@ namespace HomeWork3
             }
         }
 
+        //відображення повідлмлень в listBox
         private void ViewMessage(string text, string imageUrl)
         {
+            //формування полів для відображення їх на клієнтській стороні
             var grid = new Grid();
             for (int i = 0; i < 2; i++)
             {
@@ -120,7 +125,7 @@ namespace HomeWork3
         {
             if (string.IsNullOrEmpty(_userImage))
             {
-                MessageBox.Show("Оберіть фото для корристувача");
+                MessageBox.Show("Оберіть фото для користувача");
                 return;
             }
             if (string.IsNullOrEmpty(txtUserName.Text))
@@ -172,6 +177,7 @@ namespace HomeWork3
             }
         }
 
+        //відправка повідомлення
         private void btnSend_Click(object sender, RoutedEventArgs e)
         {
             _message.Text = txtText.Text;

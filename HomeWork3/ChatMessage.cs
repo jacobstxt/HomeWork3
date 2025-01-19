@@ -15,6 +15,8 @@ namespace HomeWork3
         public string Text { get; set; } = string.Empty;
         public string Photo { get; set; } = string.Empty;
 
+
+        //створюється певне повідомлення з масиву байтів
         public static ChatMessage Desserialize(byte[] data)
         {
             ChatMessage msg = new ChatMessage();
@@ -31,6 +33,7 @@ namespace HomeWork3
             return msg;
         }
 
+        //протилежний процес до десеріалізації
         public byte[] Serialize()
         {
             using (var m = new MemoryStream())

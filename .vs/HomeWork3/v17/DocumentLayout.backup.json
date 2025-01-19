@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\homework3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|solutionrelative:homework3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\homework3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|solutionrelative:homework3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\homework3\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|solutionrelative:homework3\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43CEB61D-988F-4D3C-B4FA-463F4914736C}|ServerTCP\\ServerTCP.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\servertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43CEB61D-988F-4D3C-B4FA-463F4914736C}|ServerTCP\\ServerTCP.csproj|solutionrelative:servertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChatMessage.cs",
-              "DocumentMoniker": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\ChatMessage.cs",
-              "RelativeDocumentMoniker": "HomeWork3\\ChatMessage.cs",
-              "ToolTip": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\ChatMessage.cs",
-              "RelativeToolTip": "HomeWork3\\ChatMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T15:37:05.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\ServerTCP\\Program.cs",
               "RelativeDocumentMoniker": "ServerTCP\\Program.cs",
               "ToolTip": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\ServerTCP\\Program.cs",
               "RelativeToolTip": "ServerTCP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T15:36:12.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "HomeWork3\\MainWindow.xaml",
-              "ToolTip": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\MainWindow.xaml",
-              "RelativeToolTip": "HomeWork3\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-18T15:33:45.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HomeWork3\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\MainWindow.xaml.cs",
-              "RelativeToolTip": "HomeWork3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAUwDoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T15:33:43.584Z",
+              "WhenOpened": "2025-01-19T19:55:37.236Z",
               "EditorCaption": ""
             }
           ]
