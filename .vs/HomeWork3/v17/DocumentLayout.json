@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\homework3\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|solutionrelative:homework3\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43CEB61D-988F-4D3C-B4FA-463F4914736C}|ServerTCP\\ServerTCP.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\servertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43CEB61D-988F-4D3C-B4FA-463F4914736C}|ServerTCP\\ServerTCP.csproj|solutionrelative:servertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\homework3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|solutionrelative:homework3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|c:\\it\\networkprogramming\\homeworks\\homework3\\homework3\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BD0C5D-10E4-498D-BD08-48386186DA7A}|HomeWork3\\HomeWork3.csproj|solutionrelative:homework3\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HomeWork3\\MainWindow.xaml.cs",
@@ -38,31 +38,30 @@
               "RelativeToolTip": "HomeWork3\\MainWindow.xaml.cs",
               "ViewState": "AgIAAHQAAAAAAAAAAAAYwHsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T20:04:52.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T20:04:52.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ChatMessage.cs",
               "DocumentMoniker": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\ChatMessage.cs",
               "RelativeDocumentMoniker": "HomeWork3\\ChatMessage.cs",
               "ToolTip": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\HomeWork3\\ChatMessage.cs",
               "RelativeToolTip": "HomeWork3\\ChatMessage.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA/wCMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T20:02:32.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\ServerTCP\\Program.cs",
               "RelativeDocumentMoniker": "ServerTCP\\Program.cs",
               "ToolTip": "C:\\IT\\NetworkProgramming\\HomeWorks\\HomeWork3\\ServerTCP\\Program.cs",
               "RelativeToolTip": "ServerTCP\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA5wCEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwHMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T19:55:37.236Z",
               "EditorCaption": ""
